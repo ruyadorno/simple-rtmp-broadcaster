@@ -1,0 +1,2 @@
+haxe -main Main -swf-header 500:300:15:FF0000 -swf-version 11 -swf broadcaster.swf
+
